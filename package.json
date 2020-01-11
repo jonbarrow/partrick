@@ -1,0 +1,27 @@
+{
+  "name": "partrick",
+  "version": "1.0.2",
+  "description": "SMM2 course editor. Core module for Mario Remaker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "smm2",
+    "super mario maker 2",
+    "course",
+    "editor",
+    "mario remaker",
+    "redducks"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "buffer-crc32": "^0.2.13",
+    "node-aes-cmac": "git+https://github.com/RedDuckss/node-aes-cmac.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RedDuckss/partrick.git"
+  },
+}
